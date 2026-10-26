@@ -1,0 +1,43 @@
+# Glossary (plain words for tech words)
+
+Read these out loud on calls — they're written to be spoken. When you drop a term, pair it with its plain translation every single time, no sigh in it. *Never using a word without explaining it is most of what makes a person feel smart instead of slow.*
+
+- **airplane mode** — a switch that turns the phone's radios off all at once. Handy for "did that even fix it" tests.
+- **app** — a program on the phone or computer. The camera app is an app; "the internet" is not.
+- **backup** — a second copy of your stuff that lives somewhere else. Photos existing on the phone *and* in the cloud is a backup; photos existing only in the "deleted" folder is a countdown timer.
+- **battery cycle** — one full use-up and recharge of a battery. Batteries count these quietly and retire after a few hundred. Treat charging cables kindly; they are the part that wears out first.
+- **browser** — the program you use to visit websites (Chrome, Safari, Edge, Firefox). Different from the search engine — the *browser* is the car, the *search engine* is the road trip.
+- **cache** — the saved clutter of a website, kept so it loads faster next time. When a site looks broken, "clear the cache" honestly means "ask it to fetch fresh — it's been showing you last week's copy."
+- **cloud** — other people's computers that hold copies of your stuff. It isn't a place you go; it's where your second copies exist.
+- **contact list (contacts)** — the phone's address book. Backed up along with everything else — see **backup**.
+- **cookie** — a small note a website leaves on your computer so it remembers you. Not the food, and nobody gets excited about "clear your cookies."
+- **default** — the one chosen for you when you didn't choose. The "default printer" is whatever your device quietly picked today; many "broken printer" calls are really "surprise default" calls.
+- **download** — bringing something to your device. **Upload** — sending something from your device. Even pros mix these up out loud; the deed fixes the word.
+- **drag and drop** — press on it, hold, move it where it goes, let go. Feels like it should be complicated; it never is.
+- **emoji** — the little picture that goes inside a message. Not something you fix, but something people absolutely call you about.
+- **extension** — a small extra tool bolted onto a browser, and the classic hiding place of "everything is slower now." The first thing any pro asks about.
+- **firewall** — the door-person between your device and the internet, deciding who's invited in. Usually present, usually quiet, only interesting when something won't connect.
+- **firmware** — the software inside a device's brain (routers, printers, TVs). It gets updates too — a word worth knowing because the ISP's phone script will say it back to you.
+- **frame rate** — how smoothly video plays. Rarely a beginner's problem; the glossary is alphabetical, not a ranked syllabus, and that's fine.
+- **hard drive** — where files live when the power is off. The room of the house; everything else is furniture. When a drive seems to be dying, copy the photos *first*, diagnose second.
+- **IP address** — a device's doorway number on the network. Matters exactly once a year, and now you'll sound calm on that call.
+- **ISP** — internet service provider; the company you pay for the internet. See [chapter 7](07-when-to-call-the-isp-or-a-pro.md) for when to call them and what to say.
+- **malware** — bad software, the umbrella word over **virus** (spreads itself), **spyware** (watches quietly), and **ransomware** (locks your files and bills you — the [backup chapter](05-passwords-and-backups.md) is the vaccine).
+- **modem** — the box that connects the house to the internet company's line. **Router** — the box that spreads it through the house. Many homes have one box doing both jobs; the reset order stays the same: modem first, router second, patience throughout.
+- **password manager** — the vault that remembers passwords so you don't have to. Your phone already has one built in — see [chapter 5](05-passwords-and-backups.md).
+- **phishing** — a fake message impersonating a business you trust, fishing for a click. **Smishing** — the same thing sent by *text*. Both are defeated by the [scam shields](06-elder-scam-shields.md), not by cleverness.
+- **pop-up** — a screen that jumps over the thing you wanted, usually shouting. Its close button doesn't always close it, and scammers count on exactly that.
+- **portrait / landscape** — tall versus wide, on photos and on paper. Roughly half of all "it prints sideways" calls.
+- **RAM (memory)** — the device's short-term workspace; the desk it thinks on. "My computer is full" usually means **storage**; "my computer is slow" often means memory. They're different rooms.
+- **remote access** — letting a person or program control your device from somewhere else. The hard no of [chapter 3](03-guided-fixes-you-talk-through.md) — and, quietly, the front door of most elder scams.
+- **reset** — power off and on. **Factory reset** — erase the whole device back to day one. The first is free; the second deletes everything. Keep the two words carefully distinct in every sentence you ever say out loud.
+- **screenshot** — a photograph of your screen. Half the diagnostic power of [chapter 1](01-support-call-checklist.md), and the politest way ever invented to describe a broken thing.
+- **search engine** — the website that finds websites (Google, Bing). Confused with the browser on about half of all calls; see **browser**, and be gentle about it.
+- **smishing** — a scam text message pretending to be a business or a family member. See **phishing**.
+- **storage** — where files and photos live. "Almost full" is the phone's most over-reported illness.
+- **two-factor (2FA)** — the second code after the password, usually by text. Turns a stolen password into only a stolen password. See [chapter 5](05-passwords-and-backups.md).
+- **update** — a new version that fixes things. **Upgrade** — a new, bigger thing you pay for. Fixing happens on the first; marketing happens on the second.
+- **URL** — a web address, the thing that starts with www or https. Reading the URL *slowly* is the free checking system behind every scam test — see the [scam shields](06-elder-scam-shields.md) again.
+- **VPN** — a privacy tunnel for your internet traffic. Handy on coffee-shop Wi-Fi; not something beginners need to buy at home. To any app that offers one mid-call: "not today."
+- **Wi-Fi** — the invisible thread through the house, spread by the **router**. "Wi-Fi is down" usually means the router, sometimes the modem, rarely the phone — which is why [the rescue order](04-rescue-order.md) exists.
+- **widget** — a live tile on the home screen (weather, calendar). Free to add, free to remove, zero shame either way.

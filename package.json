@@ -1,0 +1,17 @@
+{
+  "name": "family-tech-support-guide",
+  "version": "1.0.0",
+  "description": "A calm, un-sighing manual for being the family tech helper. Markdown docs built into a local-first static HTML site.",
+  "license": "MIT",
+  "type": "commonjs",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "test": "node --test test/",
+    "verify": "node build.js && node --test test/"
+  },
+  "author": "Asdale Dynamics, LLC",
+  "engines": {
+    "node": ">=18"
+  }
+}

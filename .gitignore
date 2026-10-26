@@ -1,0 +1,9 @@
+# Generated site output
+site/
+
+# Dependencies (none expected — the project is zero-dependency)
+node_modules/
+
+# OS noise
+.DS_Store
+Thumbs.db
