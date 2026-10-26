@@ -1,9 +1,14 @@
-# Generated site output
-site/
 
 # Dependencies (none expected — the project is zero-dependency)
-node_modules/
-
+# Generated site output
 # OS noise
+*.pyc
 .DS_Store
+.env
+.env.*
+.venv/
 Thumbs.db
+__pycache__/
+dist/*.tmp
+node_modules/
+site/
